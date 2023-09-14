@@ -17,6 +17,7 @@ function App() {
             <Route path="/" Component={Home} />
             <Route path="/register" Component={Register} />
             <Route path="/dashboard" Component={Dashboard} />
+            
           </Routes>
         </BrowserRouter>
       </div>

@@ -1,19 +1,28 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "firstname": "Nithinrhaj",
+      "lastname": "S",
+      "password": "Nithin@16",
+      "mobilenumber": "6369033945",
+      "emailid": "nithinrhaj@gmail.com",
+      "Aadharcardnumber": "429340536612",
+      "dateofbirth": "2023-09-07",
+      "AccountNumber": "230011992200",
+      "Accountbalance": 0,
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "firstname": "Nithinrhaj",
+      "lastname": "S",
+      "password": "Nithin@16",
+      "mobilenumber": "6369033945",
+      "emailid": "nithinrhaj@gmail.com",
+      "Aadharcardnumber": "429340536612",
+      "dateofbirth": "2023-09-22",
+      "AccountNumber": "230011992224",
+      "Accountbalance": 0,
+      "id": 2
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
